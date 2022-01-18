@@ -1,0 +1,30 @@
+
+Z	java:S112s"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+[	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(¨Ú°Á
+`	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(ğßòıûÿÿÿÿ
+a	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(ÆÌ¸Àøÿÿÿÿ
+v	java:S116+"\Rename this field "locked_short_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÇ€Úüÿÿÿÿ
+k	java:S116,"VRename this field "locked_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¿š
+j	java:S116-"URename this field "prior_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹”ğ
+G
+java:S1135"2Complete the task associated to this TODO comment.(£°§\
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(íÕãøÿÿÿÿ
+A
+java:S1481P"+Remove this unused "locked" local variable.(ºÀäĞ
+=
+java:S1075"&Remove this hard-coded path-delimiter.(é÷Ğ
+W
+java:S3457¾"AFormat specifiers should be used instead of string concatenation.(ÎÍ§8
+\	java:S899İ":Do something with the "boolean" value returned by "await".(·ÉŒşÿÿÿÿ8Ì²î­Ö/
+^	java:S125Æ"<This block of commented-out lines of code should be removed.(ÛßŠ½ûÿÿÿÿ8‹ùì­Ö/
+G
+java:S1144o",Remove this unused private "tryLock" method.(ğßòıûÿÿÿÿ
+A
+java:S1144µ"*Remove this unused private "await" method.(›íô£
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¿‡
+?
+java:S1604»"(Make this anonymous inner class a lambda(òÿŞ
+M
+java:S2629¾"7Use the built-in formatting to construct this argument.(ÎÍ§8
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©°£üÿÿÿÿ

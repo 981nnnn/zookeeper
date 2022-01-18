@@ -1,0 +1,25 @@
+
+Q
+java:S1854H";Remove this useless assignment to local variable "payLoad".(Î€ùŸ
+O
+java:S4719H"9Replace charset name argument with StandardCharsets.UTF_8(Î€ùŸ
+T
+java:S4719J"9Replace charset name argument with StandardCharsets.UTF_8(É“©±ıÿÿÿÿ
+@
+java:S3457v"%String contains no format specifiers.(®çÍ®ûÿÿÿÿ
+;
+java:S3457y"%String contains no format specifiers.(½ÑòĞ
+b
+java:S1128"LRemove this unused import 'jdk.nashorn.internal.objects.annotations.Getter'.(éÌ’«
+g
+java:S1128"LRemove this unused import 'jdk.nashorn.internal.objects.annotations.Setter'.(µŠÚşÿÿÿÿ
+T
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ
+s
+java:S1488‰"\Immediately return this expression instead of assigning it to the temporary variable "path".(À–‘
+j
+java:S1104"TMake instance a static final constant or non-public and provide accessors if needed.(ÚŸä
+D
+java:S1444".Make this "public static instance" field final(ÚŸä
+:
+java:S2629y"$Invoke method(s) only conditionally.(½ÑòĞ
