@@ -4,6 +4,7 @@ import org.apache.curator.RetryPolicy;
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;
 import org.apache.curator.retry.ExponentialBackoffRetry;
+import org.springframework.stereotype.Component;
 
 /**
  * @ClassName ClientFactory
@@ -12,6 +13,7 @@ import org.apache.curator.retry.ExponentialBackoffRetry;
  * @Date 2021/11/17 23:12
  * @Version 1.0
  **/
+@Component
 public class ClientFactory {
   /**
    *
