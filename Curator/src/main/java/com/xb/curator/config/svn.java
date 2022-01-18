@@ -8,4 +8,7 @@ package com.xb.curator.config;
  * @Version 1.0
  **/
 public class svn {
+  public static void main(String[] args) {
+    System.out.println("123");
+  }
 }
